@@ -37,7 +37,7 @@ This project demonstrates practical skills in:
 
 ---
 
-# 🛍️ Part 1: E-Commerce Analysis
+#  Part 1: E-Commerce Analysis
 
 **Database:** `data.sqlite`
 
@@ -57,7 +57,7 @@ This project demonstrates practical skills in:
 
 ---
 
-# 🎬 Part 2: IMDb Movie Analysis
+#  Part 2: IMDb Movie Analysis
 
 **Database:** `im.db.zip`
 
@@ -95,7 +95,7 @@ The notebook includes visualizations such as:
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 Clone the repository:
 
